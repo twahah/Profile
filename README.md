@@ -1,26 +1,26 @@
 <img width="400%" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
 
 
-<h1 align="center">Hi 👋, I'm Arnold Mwesigye</h1>
+<h1 align="center">Hi 👋, I'm Twahah Kaweesi</h1>
 <h3 align="center">A passionate Web Developer from Kampala, Uganda</h3>
 <h4 align="center">I'm extremely passionate about building and developing websites for clients. Working and collaborating with fellow developers to build projects that are responsive and interactive. Feel free to reach out!</h4>
 
 
-- 🌱 I’m currently learning **react and node.js**
+- 🌱 I’m currently learning **Vue and Laravel**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ArnoldCJ666](https://github.com/ArnoldCJ666)
+- 👨‍💻 All of my projects are available at [https://github.com/twahah](https://github.com/twahah)
 
-- 📝 I regularly write articles on [medium/@arnoldcj75](medium/@arnoldcj75)
+- 📝 I regularly write articles on [medium/@twahah](medium/@twahah)
 
 - 📫 How to reach me **twahah.kaweesi@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arnold-mwesigye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnold-mwesigye" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/arnoldcj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arnoldcj" height="30" width="40" /></a>
-<a href="https://kaggle.com/arnoldcj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arnoldcj" height="30" width="40" /></a>
-<a href="https://instagram.com/arnxldcj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arnxldcj" height="30" width="40" /></a>
-<a href="https://medium.com/@arnoldcj75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arnoldcj75" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/twahah-kaweesi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="twahah-kaweesi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/twahah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="twahah" height="30" width="40" /></a>
+<a href="https://kaggle.com/twahah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="twahah" height="30" width="40" /></a>
+<a href="https://instagram.com/twahah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="twahah" height="30" width="40" /></a>
+<a href="https://medium.com/@twahah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@twahah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
